@@ -9,10 +9,6 @@
   background-color: var(--color);
   border: 10px solid var(--border-color);
   border-radius: 50%;
-
-  /* Remove This Code */
-  margin: auto;
-  margin-bottom: 150px;
 }
   
 .pokeball-main::before {
